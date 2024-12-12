@@ -1,0 +1,7 @@
+.ContactItemContainer{
+    border: 1px solid red;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    width: 200px;
+}
