@@ -1,6 +1,7 @@
 .ContactsListContainer{
     list-style: none;
     display: flex;
-    flex-direction: column;
+    flex-wrap: wrap;
+    padding: 50px;
     gap: 10px;
 }
